@@ -1,0 +1,8 @@
+{
+  "name": "Remix mind-mirror-ai",
+  "description": "Imported from GitHub: 25poorvigowda-svg/mind-mirror-ai",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
